@@ -1,0 +1,348 @@
+ps axww
+whoami
+man
+comand
+command
+man
+h
+man whoami
+man man
+clear
+whoami
+cia
+sjfsa
+safsaf
+sazff
+clear -x
+man pwd
+pwd
+ls
+ls - movies
+ls Movies
+ls pictures
+ls pictures/libreria
+ls pictures/libreria photo booth
+pwd
+ls/users/emanuela
+ls /users/emanuela
+ls vue-molisana
+ls public
+clear
+ls /bin
+pws
+pwd
+man ls
+ls -l
+man ls
+la -s
+ls -a
+ls
+clear
+la -al
+ls -al
+pwd
+man cd
+man help
+pdw
+clear
+pdw
+pwd
+ls
+cd Desktop
+pwd
+ls
+cd udemy
+pwd
+ls
+pwd
+cd ..
+pwd
+ls
+cd udemy
+ls
+.. cd
+cd ..
+cd udemy/javascript
+pwd
+ls
+cd ../../..
+pwd
+cd ~
+pwd
+cd /
+ls
+whoami
+cd home
+ls
+ls
+cd emanuela/
+ls
+pwd
+cd ..
+ls
+pwd /
+cd ~
+pwd
+ls
+cd Desktop/
+pwd
+ls
+cd ~/desktop/
+pwd
+clear
+pwd
+mkdir Greenhouse
+ls
+pwd
+cd greenhouse
+pwd
+mkdir winter summer
+ls
+mdir summer/seeds
+mkdir summer/seeds
+pwd
+ls
+cd summer
+ls
+man mkdir
+pwd
+cd ..
+pwd
+ls
+mkdir winter/seeds/lettuce
+mkdir -p winter/seeds/lettuce
+pwd
+ls
+cd winter
+ls
+cd seeds
+ls
+ls/winter
+cd ..
+pwd
+cd ..
+pwd
+ls
+ls/winter
+ls winter
+cd ..
+ls winter/seeds
+pwd
+ls
+ls greenhouse/winter/seeds
+pwd
+cd greenhouse
+ls
+cd summer/
+ls
+cd seeds/
+ls
+touch squash
+ls
+touch melon.txt
+ls
+touch apple.pdf
+ls
+touch red.pdf orange.png yellow.xls
+ls
+touch red.pdf orange.png
+ls
+man touch
+ls -l
+man open
+ls
+pwd
+rmdir seeds
+mkdir deleteme
+ls
+rmdir deleteme
+ls
+touch cat dog carrot blue
+ls
+rm blue
+ls
+cd ../../
+pwd
+ls
+cd summer
+pwd
+mkdir nuova
+ls
+touch file
+ls
+rm nuova
+rm file
+ls
+rmdir nuova
+ls
+touch cat dog carrot blue
+ls
+rm -v carrot cat dog
+ls
+cd seeds
+ls
+man rm
+ls
+rm -r seeds
+pwd
+ls
+cd ..
+pwd
+ls
+rm -r seeds
+ls
+pwd
+li
+ls
+cd zoo
+mkdir zoo
+ls
+cd zoo
+touch cat dog snake jaguar
+ls
+cd ..
+ls
+rm -ri zoo/
+ls
+cd zoo
+ls
+cd ~/users/
+pwd
+cd ../../
+cd ..
+ls
+cd greenhouse
+ls
+cd ..
+rm -rv greenhouse
+node -v
+npm install live-server -g
+sudo npm install live-server -g
+live server
+live-server
+sudo npm install live-server -g
+live-server
+npm ren serve
+npm run serve
+clear
+npm i -g @vue/cli
+npm i -g @vue/cli
+npm run build
+npm init vue@latest
+cd vue-project\
+  npm install\
+  npm run lint\
+  npm run dev
+$ npm install vue
+npm install vue
+vue create vue-prova
+cd vue-prova
+$ cd vue-prova
+cd vue-prova
+npm run serve
+ npm run serve
+vue create vue-prova
+npm install tailwindcss
+npx tailwindcss-cli build css/tailwind.css -o build/tailwind.css
+npx tailwindcss-cli build style/css/tailwind.css -o build/tailwind.css
+npm install tailwindcss
+npm run serve
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+npm run serve
+npm install -D tailwindcss
+npx tailwindcss init\
+
+$ npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+npx tailwindcss init -p
+npm uninstall postcss\
+npm install postcss --save-dev
+npm run serve
+npm i -D postcss postcss-cli
+npm install --save-dev postcss postcss-focus
+npm run serve
+vue create vue-tailwind
+npm run serve
+npm run serve
+npm run serve
+php artisan serve
+vue create vua-tailwind
+npm install tailwindcss@2 autoprefixer
+npm install postcss-cli
+npx tailwindcss init -p
+npm run serve
+npm run serve
+vue create vue-tailwind
+npm run serve
+npm install tailwindcss postcss autoprefixer postcss-cli cssnano onchange
+npm install tailwindcss postcss
+npm uninstall tailwindcss postcss autoprefixer
+npm uninstall tailwindcss postcss autoprefixer\
+
+npm install tailwindcss@npm:@tailwindcss/postcss7-compat @tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
+npx tailwindcss init -p
+npm run serve
+npm run serve
+npm install -D postcss@latest autoprefixer@latest
+npm run dev
+npm run serve
+npm run serve
+npm run serve
+npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+npm i tailwind@2
+npm install postcss-cli
+npm run serve
+npm install tailwindcss@2
+vue create tailwindcss
+npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat @tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9\
+
+npm i tailwind@2
+npm run serve
+vue create vue-tailwind
+vue create countdown
+npm run serve
+npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat @tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
+npm run serve
+npm run serve
+npm run serve
+npm i --save @fortawesome/fontawesome-svg-core
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/free-regular-svg-icons
+npm i --save @fortawesome/vue-fontawesome@latest
+npm run serve
+vue create countdown
+npm install -g json-server
+vue ui
+npm i axios
+npm outdated
+vue create post
+npm run serve
+npm i axios
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npx -p devextreme-cli devextreme add devextreme-vue
+npx -p devextreme-cli devextreme remove devextreme-vue
+npx -p devextreme-cli devextreme unstalle devextreme-vue
+npx -p devextreme-cli devextreme unstall devextreme-vue
+npm run serve
+npm install vuejs-datepicker --save
+npm install vuejs-datepicker
+json-server --watch db.json
+npm install -g json-server
+npm run serve
+npm install devextreme@20.2 devextreme-vue@20.2 --save --save-exact
+npm run serve
+npm run serve
+npm install devextreme@20.2.9 devextreme-vue@20.2.9 --save --save-exact
+cd code
+git clone https://github.com/designcourse/threejs-webpack-starter.git
+git clone https://github.com/designcourse/threejs-webpack-starter.git particles
+cd particles
+npm i
+npm run dev
+npm run serve
+npm run serve
+npm run serve
+vue create vue-weather

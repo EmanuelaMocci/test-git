@@ -1,0 +1,24 @@
+{
+  "useTaobaoRegistry": false,
+  "latestVersion": "5.0.4",
+  "lastChecked": 1648026367090,
+  "presets": {
+    "vueMastery": {
+      "useConfigFiles": true,
+      "plugins": {
+        "@vue/cli-plugin-babel": {},
+        "@vue/cli-plugin-router": {
+          "historyMode": false
+        },
+        "@vue/cli-plugin-vuex": {},
+        "@vue/cli-plugin-eslint": {
+          "config": "prettier",
+          "lintOn": [
+            "save"
+          ]
+        }
+      },
+      "vueVersion": "2"
+    }
+  }
+}
